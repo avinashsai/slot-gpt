@@ -1,2 +1,2 @@
 # slot-gpt
-Code for the paper in ACM TOMM 
+Code for the paper accepted in Multimedia Tools and Applications journal. 
